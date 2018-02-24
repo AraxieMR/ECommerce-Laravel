@@ -1,0 +1,35 @@
+div.total-cart {
+    display: inline;
+    position: relative;
+    top: -17px;
+    left: -19px;
+}
+.shop-cart-dropdown a .badge {
+    position: absolute;
+    right:0;
+    top: 0;
+    width: 18px;
+    left: auto;
+}
+nav.navbar .navbar-nav li > a {
+    position:relative;
+}
+
+#footer-wrraper {
+   padding: 0 ;
+ }
+#img-ship { background-image:url('../images/girl_blond.jpg'); }
+#img-dis { background-image:url('../images/discount.jpg'); }
+#img-spa { background-image:url('../images/stones.jpg'); }
+.overlay.blue {
+    background: rgba(174, 187, 5, 0.8);
+}
+.overlay.purple {
+    background: rgba(237, 68, 3, 0.8);
+}
+.overlay.red {
+    background: rgba(136, 66, 41, 0.8);
+}
+a.label-light:hover{
+  color:black;
+}
